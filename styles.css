@@ -1,0 +1,62 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    color: black;
+    background-color: white;
+}
+
+#lista{
+ list-style: none;
+
+}
+
+li{
+border-color: gray;
+}
+
+#agregar{
+    height: 55px;
+    background-color: darksalmon;
+    color: beige;
+}
+  
+button{
+    width: 35;
+    height: 85;
+    border-radius: 30px;
+    background-color: azure;
+    color:black
+}
+div{
+    border-color: gray;
+    background-color: bisque;
+    color: brown;
+}
+
+section {
+    border-color: rgb(124, 91, 91);
+    background-color: rgb(231, 188, 135);
+    color: rgb(17, 16, 16);
+}
+
+
+article {
+    border-color: rgb(15, 92, 180);
+    background-color: rgb(174, 196, 224);
+    color: rgb(46, 23, 110);
+}
+
+input{
+    border: 2px solid blueviolet;
+}
+
+p{
+    color:blue;
+}
+label{
+    color:rgb(218, 31, 62);
+}
